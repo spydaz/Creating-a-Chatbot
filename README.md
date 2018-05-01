@@ -10,3 +10,8 @@ Basic Chat-Bot Design developed in 8 stages... From here you can design and buil
 
 This is a basic beginnings for chat-bot designs
 
+http://www.spydazweb.co.uk/spydazweb-ai/ai_tutorials < Basic link to website tutorials
+
+8 stages shown here from adding speech to adding plugin and comipling them for your APP!
+
+
