@@ -1,0 +1,6 @@
+D:\Creating a Chatbot\Creating a Chatbot - 3 - Add Speech\ChatBot\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+D:\Creating a Chatbot\Creating a Chatbot - 3 - Add Speech\ChatBot\Artificial Intelligence\obj\Debug\Interop.AgentObjects.dll
+D:\Creating a Chatbot\Creating a Chatbot - 3 - Add Speech\ChatBot\Artificial Intelligence\obj\Debug\3_AddSpeech.vbproj.ResolveComReference.cache
+D:\Creating a Chatbot\Creating a Chatbot - 3 - Add Speech\ChatBot\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+D:\Creating a Chatbot\Creating a Chatbot - 3 - Add Speech\ChatBot\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+D:\Creating a Chatbot\Creating a Chatbot - 3 - Add Speech\ChatBot\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb

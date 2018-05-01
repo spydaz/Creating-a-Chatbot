@@ -1,0 +1,119 @@
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\bin\Debug\Parts of Speech.accdb
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.manifest
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\bin\Debug\Artificial Intelligence.application
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\bin\Debug\Artificial Intelligence.pdb
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\bin\Debug\Artificial Intelligence.xml
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Interop.AgentObjects.dll
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\ChatBot.vbproj.ResolveComReference.cache
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Frm_AI.resources
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Resources.resources
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\ChatBot.vbproj.GenerateResource.Cache
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe.manifest
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial Intelligence.application
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.manifest
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\bin\Debug\Artificial Intelligence.application
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\bin\Debug\Artificial Intelligence.pdb
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\bin\Debug\Artificial Intelligence.xml
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Interop.AgentObjects.dll
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\ChatBot.vbproj.ResolveComReference.cache
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Frm_AI.resources
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Resources.resources
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\ChatBot.vbproj.GenerateResource.Cache
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe.manifest
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Artificial Intelligence.application
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot\ChatBot Tutorial\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+D:\A_I\VB_2013_Source\Creating a Chatbot\ChatBot Tutorial\Artificial Intelligence\obj\Debug\Interop.AgentObjects.dll
+D:\A_I\VB_2013_Source\Creating a Chatbot\ChatBot Tutorial\Artificial Intelligence\obj\Debug\ChatBot.vbproj.ResolveComReference.cache
+D:\A_I\VB_2013_Source\Creating a Chatbot\ChatBot Tutorial\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+D:\A_I\VB_2013_Source\Creating a Chatbot\ChatBot Tutorial\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot\ChatBot Tutorial\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot - Copy\ChatBot Tutorial\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+D:\A_I\VB_2013_Source\Creating a Chatbot - Copy\ChatBot Tutorial\Artificial Intelligence\obj\Debug\Interop.AgentObjects.dll
+D:\A_I\VB_2013_Source\Creating a Chatbot - Copy\ChatBot Tutorial\Artificial Intelligence\obj\Debug\ChatBot.vbproj.ResolveComReference.cache
+D:\A_I\VB_2013_Source\Creating a Chatbot - Copy\ChatBot Tutorial\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+D:\A_I\VB_2013_Source\Creating a Chatbot - Copy\ChatBot Tutorial\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot - Copy\ChatBot Tutorial\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\obj\Debug\Interop.AgentObjects.dll
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\obj\Debug\ChatBot.vbproj.ResolveComReference.cache
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\bin\Debug\QA.accdb
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.manifest
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\bin\Debug\Artificial Intelligence.application
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\bin\Debug\Artificial Intelligence.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\bin\Debug\Artificial Intelligence.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\bin\Debug\PluginInterface.dll
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\bin\Debug\PluginInterface.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\bin\Debug\PluginInterface.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\obj\Debug\ChatBot.vbprojResolveAssemblyReference.cache
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Frm_AI.resources
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Resources.resources
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\obj\Debug\ChatBot.vbproj.GenerateResource.Cache
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe.manifest
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\obj\Debug\Artificial Intelligence.application
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\bin\Debug\Plugins\SamplePlugin.txt
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\bin\Debug\Scripts\Script for Movement.txt
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\bin\Debug\Scripts\Script for Speech.txt
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Interop.AgentObjects.dll
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\ChatBot.vbproj.ResolveComReference.cache
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\QA.accdb
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Plugins\SamplePlugin.txt
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Scripts\Script for Movement.txt
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Scripts\Script for Speech.txt
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.manifest
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Artificial Intelligence.application
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Artificial Intelligence.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Artificial Intelligence.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\PluginInterface.dll
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\PluginInterface.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\PluginInterface.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\ChatBot.vbprojResolveAssemblyReference.cache
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial_Intelligence.FrmBrainEditor.resources
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Frm_AI.resources
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Resources.resources
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\ChatBot.vbproj.GenerateResource.Cache
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe.manifest
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial Intelligence.application
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Interop.AgentObjects.dll
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\ChatBot.vbproj.ResolveComReference.cache
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\QA.accdb
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Plugins\SamplePlugin.txt
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Scripts\Script for Movement.txt
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Scripts\Script for Speech.txt
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.manifest
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Artificial Intelligence.application
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Artificial Intelligence.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\Artificial Intelligence.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\PluginInterface.dll
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\PluginInterface.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\bin\Debug\PluginInterface.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\ChatBot.vbprojResolveAssemblyReference.cache
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial_Intelligence.FrmBrainEditor.resources
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Frm_AI.resources
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Resources.resources
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\ChatBot.vbproj.GenerateResource.Cache
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe.manifest
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\obj\Debug\Artificial Intelligence.application

@@ -1,0 +1,55 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Parts_of_Speech_ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Provider=Microsoft.ACE.OLEDB.12.0;Data Source="|DataDirectory|\Parts of Speech.accdb"&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.OleDb&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Provider=Microsoft.ACE.OLEDB.12.0;Data Source="|DataDirectory|\Parts of Speech.accdb"</Value>
+    </Setting>
+    <Setting Name="QAConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\QA.accdb&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.OleDb&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\QA.accdb</Value>
+    </Setting>
+    <Setting Name="SamplePlugin" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Imports PluginInterface
+Public Class SamplePlugin
+    Implements IPlugin
+    Public Function GetResponse(UserInput As String) As Boolean Implements IPlugin.GetResponse
+        GetResponse = False
+    End Function
+    Public ReadOnly Property Name As String Implements IPlugin.Name
+        Get
+            Name = "SamplePlugin"
+        End Get
+    End Property
+    Public Property Response As String Implements IPlugin.Response
+End Class</Value>
+    </Setting>
+    <Setting Name="PreviousResp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PrevUserSent" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BotName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Spy-daz Conversational Artificial Intelligence Matrix</Value>
+    </Setting>
+    <Setting Name="BotAge" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BotCreator" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Leroy Samuel Dyer "Spy-daz" of Http://www.spydazweb.co.uk , London U.K (07050134457) (2014)</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

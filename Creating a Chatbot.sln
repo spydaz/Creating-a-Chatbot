@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3_AddSpeech", "Creating a Chatbot - 3 - Add Speech\ChatBot\Artificial Intelligence\3_AddSpeech.vbproj", "{7E58672A-8BD1-4CD5-BE7B-2E9B7428A8F2}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "4_AddPlugins", "Creating a Chatbot - 4 - Plugins\Creating a Chatbot - 4 - Plugins\Artificial Intelligence\4_AddPlugins.vbproj", "{B28BCCFC-AB23-4846-ACA4-70D037DE6722}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SamplePlugin", "Creating a Chatbot - 4 - Plugins\Creating a Chatbot - 4 - Plugins\SamplePlugin\SamplePlugin.vbproj", "{58F49FF1-C035-459C-BCD4-1CB8A9E07478}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PluginInterface", "Creating a Chatbot - 4 - Plugins\Creating a Chatbot - 4 - Plugins\PluginInterface\PluginInterface.vbproj", "{5A83924A-D8B4-468E-8FA6-57C44C72FE00}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "5_AddDatabase", "Creating a Chatbot - 5 - Adding a DatabaseStorage\Creating a Chatbot - 5 - Adding a DatabaseStorage\Artificial Intelligence\5_AddDatabase.vbproj", "{61320B36-8F0C-4512-848F-E56814E7961C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "6_AddBrainEditor", "Creating a Chatbot - 6 - Adding a BrainEditor\Creating a Chatbot - 6 - Adding a BrainEditor\Artificial Intelligence\6_AddBrainEditor.vbproj", "{2397B7F4-E067-480B-B01F-8F53DC9E3571}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "7_AddPluginTester", "Creating a Chatbot - 7 - Adding a Plugin Tester\Creating a Chatbot - 7 - Adding a Plugin Tester\Artificial Intelligence\7_AddPluginTester.vbproj", "{1F3EFE07-5755-4357-817B-62BB54844ED9}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "8_AddPersonality", "Creating a Chatbot - 8 - Adding a Personality & (ShortTerm & Working Memory)\Creating a Chatbot - 8 - Adding a Personality & (ShortTerm & Working Memory)\Artificial Intelligence\8_AddPersonality.vbproj", "{C69B47C8-DB40-4F6C-B6FE-D50DC9ED2C83}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_Creating the GUI", "Creating a Chatbot - 1 - Creating the Gui\Creating a Chatbot\ChatBot\Artificial Intelligence\1_Creating the GUI.vbproj", "{041043A7-090D-41C3-AEE4-E088E2F6A407}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2_AddingFormMovement", "Creating a Chatbot - 2 - FormMovement (Customizing)\ChatBot\Artificial Intelligence\2_AddingFormMovement.vbproj", "{1375C9D6-55D5-4C2D-9F10-36E9A3BA1548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E58672A-8BD1-4CD5-BE7B-2E9B7428A8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E58672A-8BD1-4CD5-BE7B-2E9B7428A8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E58672A-8BD1-4CD5-BE7B-2E9B7428A8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E58672A-8BD1-4CD5-BE7B-2E9B7428A8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B28BCCFC-AB23-4846-ACA4-70D037DE6722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28BCCFC-AB23-4846-ACA4-70D037DE6722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28BCCFC-AB23-4846-ACA4-70D037DE6722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28BCCFC-AB23-4846-ACA4-70D037DE6722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F49FF1-C035-459C-BCD4-1CB8A9E07478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F49FF1-C035-459C-BCD4-1CB8A9E07478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F49FF1-C035-459C-BCD4-1CB8A9E07478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F49FF1-C035-459C-BCD4-1CB8A9E07478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A83924A-D8B4-468E-8FA6-57C44C72FE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A83924A-D8B4-468E-8FA6-57C44C72FE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A83924A-D8B4-468E-8FA6-57C44C72FE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A83924A-D8B4-468E-8FA6-57C44C72FE00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61320B36-8F0C-4512-848F-E56814E7961C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61320B36-8F0C-4512-848F-E56814E7961C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61320B36-8F0C-4512-848F-E56814E7961C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61320B36-8F0C-4512-848F-E56814E7961C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2397B7F4-E067-480B-B01F-8F53DC9E3571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2397B7F4-E067-480B-B01F-8F53DC9E3571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2397B7F4-E067-480B-B01F-8F53DC9E3571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2397B7F4-E067-480B-B01F-8F53DC9E3571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F3EFE07-5755-4357-817B-62BB54844ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3EFE07-5755-4357-817B-62BB54844ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3EFE07-5755-4357-817B-62BB54844ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3EFE07-5755-4357-817B-62BB54844ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C69B47C8-DB40-4F6C-B6FE-D50DC9ED2C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69B47C8-DB40-4F6C-B6FE-D50DC9ED2C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69B47C8-DB40-4F6C-B6FE-D50DC9ED2C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69B47C8-DB40-4F6C-B6FE-D50DC9ED2C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041043A7-090D-41C3-AEE4-E088E2F6A407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041043A7-090D-41C3-AEE4-E088E2F6A407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041043A7-090D-41C3-AEE4-E088E2F6A407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041043A7-090D-41C3-AEE4-E088E2F6A407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1375C9D6-55D5-4C2D-9F10-36E9A3BA1548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1375C9D6-55D5-4C2D-9F10-36E9A3BA1548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1375C9D6-55D5-4C2D-9F10-36E9A3BA1548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1375C9D6-55D5-4C2D-9F10-36E9A3BA1548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

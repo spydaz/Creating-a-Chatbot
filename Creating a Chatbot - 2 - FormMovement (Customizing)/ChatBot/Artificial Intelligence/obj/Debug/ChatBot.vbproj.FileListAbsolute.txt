@@ -1,0 +1,33 @@
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\bin\Debug\Parts of Speech.accdb
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.manifest
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\bin\Debug\Artificial Intelligence.application
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\bin\Debug\Artificial Intelligence.pdb
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\bin\Debug\Artificial Intelligence.xml
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Interop.AgentObjects.dll
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\ChatBot.vbproj.ResolveComReference.cache
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Frm_AI.resources
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Resources.resources
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\ChatBot.vbproj.GenerateResource.Cache
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe.manifest
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial Intelligence.application
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.manifest
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\bin\Debug\Artificial Intelligence.application
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\bin\Debug\Artificial Intelligence.pdb
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\bin\Debug\Artificial Intelligence.xml
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Interop.AgentObjects.dll
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\ChatBot.vbproj.ResolveComReference.cache
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Frm_AI.resources
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Resources.resources
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\ChatBot.vbproj.GenerateResource.Cache
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe.manifest
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Artificial Intelligence.application
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+D:\DOCUMENTS\Visual Studio 2013\Projects\ChatBot\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb

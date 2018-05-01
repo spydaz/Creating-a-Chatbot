@@ -1,0 +1,23 @@
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\SamplePlugin\bin\Debug\SamplePlugin.dll
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\SamplePlugin\bin\Debug\SamplePlugin.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\SamplePlugin\bin\Debug\SamplePlugin.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\SamplePlugin\bin\Debug\PluginInterface.dll
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\SamplePlugin\bin\Debug\PluginInterface.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\SamplePlugin\bin\Debug\PluginInterface.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\SamplePlugin\obj\Debug\SamplePlugin.Resources.resources
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\SamplePlugin\obj\Debug\SamplePlugin.vbproj.GenerateResource.Cache
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\SamplePlugin\obj\Debug\SamplePlugin.dll
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\SamplePlugin\obj\Debug\SamplePlugin.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot\Creating a Chatbot - 5 - Adding a DatabaseStorage\SamplePlugin\obj\Debug\SamplePlugin.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\SamplePlugin\bin\Debug\SamplePlugin.dll
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\SamplePlugin\bin\Debug\SamplePlugin.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\SamplePlugin\bin\Debug\SamplePlugin.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\SamplePlugin\bin\Debug\PluginInterface.dll
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\SamplePlugin\bin\Debug\PluginInterface.pdb
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\SamplePlugin\bin\Debug\PluginInterface.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\SamplePlugin\obj\Debug\SamplePlugin.vbprojResolveAssemblyReference.cache
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\SamplePlugin\obj\Debug\SamplePlugin.Resources.resources
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\SamplePlugin\obj\Debug\SamplePlugin.vbproj.GenerateResource.Cache
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\SamplePlugin\obj\Debug\SamplePlugin.dll
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\SamplePlugin\obj\Debug\SamplePlugin.xml
+D:\A_I\VB_2013_Source\Creating a Chatbot Tutorials\Creating a Chatbot - 6 - Adding a BrainEditor\SamplePlugin\obj\Debug\SamplePlugin.pdb

@@ -1,0 +1,15 @@
+Imports PluginInterface
+Public Class SamplePlugin
+	Implements IPlugin
+	Public Function GetResponse(UserInput As String) As Boolean Implements IPlugin.GetResponse
+		 GetResponse = false      
+			   Mresponse = "SamplePlugin Response"
+		GetResponse = True
+	End Function
+	Public ReadOnly Property Name As String Implements IPlugin.Name
+		Get
+			Name = "SamplePlugin"
+		End Get
+	End Property
+	Public Property Response As String Implements IPlugin.Response
+End Class

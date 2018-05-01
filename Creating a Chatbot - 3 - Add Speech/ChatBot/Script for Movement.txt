@@ -1,0 +1,45 @@
+'Methods for form positioning
+    Private x, y As Integer
+    Private newpoint As New Point
+    Private Userinput As String
+
+    'Form Movement
+    ''' <summary>
+    ''' This samples solves the problem for the borderless form not being moveable.
+    ''' </summary>
+    ''' <param name="sender"></param>
+    ''' <param name="e"></param>
+    ''' <remarks></remarks>
+    Private Sub Frm_AI_MouseDown(sender As Object, e As MouseEventArgs) Handles Me.MouseDown
+        Try
+            ' Form movement set integers
+            x = Control.MousePosition.X - Me.Location.X
+            y = Control.MousePosition.Y - Me.Location.Y
+        Catch ex As Exception
+            'just in case
+        End Try
+    End Sub
+
+    ''' <summary>
+    ''' This samples solves the problem for the borderless form not being moveable.
+    ''' </summary>
+    ''' <param name="sender"></param>
+    ''' <param name="e"></param>
+    ''' <remarks></remarks>
+    Private Sub Frm_AI_MouseMove(sender As Object, e As MouseEventArgs) Handles Me.MouseMove
+        Try
+            ' Form movement movement
+            If e.Button = Windows.Forms.MouseButtons.Left Then
+                newpoint = Control.MousePosition
+                newpoint.X -= (x)
+                newpoint.Y -= (y)
+                Me.Location = newpoint
+            End If
+
+
+
+
+        Catch ex As Exception
+            'just in case
+        End Try
+    End Sub

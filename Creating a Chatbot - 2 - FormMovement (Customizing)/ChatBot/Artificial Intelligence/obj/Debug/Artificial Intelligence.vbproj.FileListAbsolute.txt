@@ -1,0 +1,29 @@
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\bin\Debug\Parts of Speech.accdb
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.manifest
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.application
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.pdb
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.xml
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\obj\Debug\Interop.AgentObjects.dll
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.vbproj.ResolveComReference.cache
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Frm_AI.resources
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Resources.resources
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.vbproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe.manifest
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.application
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+d:\documents\visual studio 2013\Projects\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+D:\Artificial Intelligence Projects\AI_Template\SourceFiles\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+D:\Artificial Intelligence Projects\AI_Template\SourceFiles\Artificial Intelligence\Artificial Intelligence\obj\Debug\Interop.AgentObjects.dll
+D:\Artificial Intelligence Projects\AI_Template\SourceFiles\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.vbproj.ResolveComReference.cache
+D:\Artificial Intelligence Projects\AI_Template\SourceFiles\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+D:\Artificial Intelligence Projects\AI_Template\SourceFiles\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+D:\Artificial Intelligence Projects\AI_Template\SourceFiles\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Interop.AgentObjects.dll
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial Intelligence.vbproj.ResolveComReference.cache
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial Intelligence.xml
+D:\DOCUMENTS\Visual Studio 2013\Projects\Artificial Intelligence - Copy\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb

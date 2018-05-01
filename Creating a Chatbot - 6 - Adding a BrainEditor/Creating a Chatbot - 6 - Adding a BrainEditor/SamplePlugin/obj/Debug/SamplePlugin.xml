@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SamplePlugin
+</name>
+</assembly>
+<members>
+<member name="M:SamplePlugin.SamplePlugin.GetResponse(System.String)">
+	<summary>
+ This is the main response "Handles Iplugin.etResponse"
+ </summary>
+	<param name="UserInput"></param>
+	<returns>TRUE : If response is detected</returns>
+	<remarks></remarks>
+</member><member name="P:SamplePlugin.SamplePlugin.Name">
+	<summary>
+ This is the name of the plugin created
+ </summary>
+	<value></value>
+	<returns>String Name</returns>
+	<remarks></remarks>
+</member><member name="P:SamplePlugin.SamplePlugin.Response">
+	<summary>
+ Response to be returned to the main script
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:SamplePlugin.SamplePlugin">
+	<summary>
+ This is the sample plugin, Implementing Iplugin, contained in the PluginInterface
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SamplePlugin.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SamplePlugin.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SamplePlugin.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
