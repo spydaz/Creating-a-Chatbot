@@ -15,4 +15,7 @@ http://www.spydazweb.co.uk/spydazweb-ai/ai_tutorials < Basic link to website tut
 
 8 stages shown here from adding speech to adding plugin and comipling them for your APP!
 
+## UPDATED TUTORIAL SOURCE CODE >>>> HERE ##
+https://github.com/spydaz/Chatbot_2020_Tutorial
+
 
