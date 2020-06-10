@@ -4,7 +4,7 @@ https://github.com/spydaz/Chatbot_2020_Tutorial
 
 
 
-# Creating-a-Chatbot
+### Creating-a-Chatbot (depreciated)
 Basic Chat-Bot Design developed in 8 stages... From here you can design and build your own chat-bot, connect to external API etc...
 
 
